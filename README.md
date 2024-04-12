@@ -1,6 +1,6 @@
 ---
 
-# [Sumit Gandhi]
+# Sumit Gandhi
 
 ## Hi there 👋
 
