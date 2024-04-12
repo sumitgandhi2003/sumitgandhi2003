@@ -1,16 +1,46 @@
-### Hi there 👋
+---
 
-<!--
-**sumitgandhi2003/sumitgandhi2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [Sumit Gndhi]
 
-Here are some ideas to get you started:
+## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm [Your Name], a [Your Profession/Role] passionate about [Your Interests or Specializations]. Welcome to my GitHub profile! Here you'll find a mix of my personal projects, contributions to open-source, and maybe a bit of experimentation.
+
+### 🌱 What I'm currently working on
+
+- [Project 1]: Brief description or status update
+- [Project 2]: Brief description or status update
+
+### 👨‍💻 My projects
+
+- [Project 1]: Short description with link
+- [Project 2]: Short description with link
+
+### 🔭 I’m currently interested in
+
+- [Interest 1]: What you're exploring or learning about
+- [Interest 2]: Another area of interest
+
+### 📫 How to reach me
+
+- LinkedIn: [Your LinkedIn Profile URL]
+- Twitter: [Your Twitter Handle]
+- Website: [Your Website URL]
+
+### ⚡ Fun fact
+
+[Interesting tidbit about yourself]
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitgandhi2003&show_icons=true&theme=radical)
+
+### 🌟 My Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitgandhi2003&layout=compact&theme=radical)
+
+### 🤝 Let's connect!
+
+Feel free to reach out and connect! I'm always interested in collaborating on new projects and exchanging ideas.
+
+---
